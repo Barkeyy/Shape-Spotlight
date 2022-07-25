@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rick.png"><SubTexture name="rick talk0000" x="0" y="0" width="762" height="516" frameX="-134" frameY="-77" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rick talk0001" x="0" y="0" width="762" height="516" frameX="-134" frameY="-77" frameWidth="1280" frameHeight="720" />
+
+<SubTexture name="rick talk0002" x="1524" y="503" width="795" height="495" frameX="-122" frameY="-99" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rick talk0003" x="1524" y="503" width="795" height="495" frameX="-122" frameY="-99" frameWidth="1280" frameHeight="720" />
+
+<SubTexture name="rick talk0004" x="801" y="1032" width="808" height="486" frameX="-122" frameY="-107" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rick talk0005" x="801" y="1032" width="808" height="486" frameX="-122" frameY="-107" frameWidth="1280" frameHeight="720" />
+
+<SubTexture name="rick happy0000" x="762" y="0" width="762" height="516" frameX="-134" frameY="-77" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rick happy0001" x="762" y="0" width="762" height="516" frameX="-134" frameY="-77" frameWidth="1280" frameHeight="720" />
+
+<SubTexture name="rick happy0002" x="1524" y="0" width="798" height="503" frameX="-119" frameY="-91" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rick happy0003" x="1524" y="0" width="798" height="503" frameX="-119" frameY="-91" frameWidth="1280" frameHeight="720" />
+
+<SubTexture name="rick happy0004" x="809" y="1535" width="797" height="482" frameX="-112" frameY="-112" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rick happy0005" x="809" y="1535" width="797" height="482" frameX="-112" frameY="-112" frameWidth="1280" frameHeight="720" />
+
+<SubTexture name="rick angry0000" x="0" y="516" width="762" height="516" frameX="-134" frameY="-77" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rick angry0001" x="0" y="516" width="762" height="516" frameX="-134" frameY="-77" frameWidth="1280" frameHeight="720" />
+
+<SubTexture name="rick angry0002" x="0" y="1032" width="801" height="503" frameX="-115" frameY="-91" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rick angry0003" x="0" y="1032" width="801" height="503" frameX="-115" frameY="-91" frameWidth="1280" frameHeight="720" />
+
+<SubTexture name="rick angry0004" x="0" y="1535" width="809" height="483" frameX="-113" frameY="-111" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rick angry0005" x="0" y="1535" width="809" height="483" frameX="-113" frameY="-111" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

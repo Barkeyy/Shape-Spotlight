@@ -1,0 +1,172 @@
+{
+	"dialogue": [
+		{
+			"sound": "tv-dialogue",
+			"speed": 0.05,
+			"portrait": "tv",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We will be back after a moment from our sponsers."
+		},
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Ugh not another ad break"
+		},
+		{
+			"sound": "gf-dialogue",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "*sigh* I feel the same way, BF."
+		},
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Wait a second, LOOK AT THIS!"
+		},
+		{
+			"sound": "tv-dialogue",
+			"speed": 0.05,
+			"portrait": "tv",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "To all singers and rappers alike, we present to you..."
+		},
+		{
+			"sound": "tv-dialogue",
+			"speed": 0.05,
+			"portrait": "tv",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A singing competition! Compete against others to win the prize of 25,000 dollars!"
+		},
+		{
+			"sound": "tv-dialogue",
+			"speed": 0.05,
+			"portrait": "tv",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Call 1(123)-456-7896 to compete! we will start competing on January 5th."
+		},
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "Lets do this!!"
+		},
+		{
+			"sound": "gf-dialogue",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Now let me call the number"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nonexisty",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "One week later..."
+		},
+		{
+			"sound": "annoucer-dialogue",
+			"speed": 0.05,
+			"portrait": "tv",
+			"boxState": "normal",
+			"expression": "announcer",
+			"text": "The singing competition will begin in a moment."
+		},
+		{
+			"sound": "annoucer-dialogue",
+			"speed": 0.05,
+			"portrait": "tv",
+			"boxState": "normal",
+			"expression": "announcer",
+			"text": "Wait, where's the second singer for duets... he didn't show up"
+		},
+		{
+			"sound": "annoucer-dialogue",
+			"speed": 0.05,
+			"portrait": "tv",
+			"boxState": "normal",
+			"expression": "announcer",
+			"text": "We'll just have to choose one of our contesta-\\nnts at random to sing with the other contestants."
+		},
+		{
+			"sound": "annoucer-dialogue",
+			"speed": 0.05,
+			"portrait": "tv",
+			"boxState": "normal",
+			"expression": "announcer",
+			"text": "Lets go with....."
+		},
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Me! Me! Me! Me! Me!"
+		},
+		{
+			"sound": "annoucer-dialogue",
+			"speed": 0.05,
+			"portrait": "tv",
+			"boxState": "normal",
+			"expression": "announcer",
+			"text": "That blue haired midget over there!"
+		},
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Yes!"
+		},
+		{
+			"sound": "annoucer-dialogue",
+			"speed": 0.05,
+			"portrait": "tv",
+			"boxState": "normal",
+			"expression": "announcer",
+			"text": "Time to begin the contest our first contesetant is Rick!"
+		},
+		{
+			"sound": "rick-dialogue",
+			"speed": 0.05,
+			"portrait": "rick",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Let's do this!"
+		},
+		{
+			"sound": "rick-dialogue",
+			"speed": 0.05,
+			"portrait": "rick",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Are you ready?"
+		},
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Yeah!!!!!"
+		}
+	]
+}

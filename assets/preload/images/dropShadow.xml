@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rick.png"><SubTexture name="rick dance left0000" x="0" y="720" width="1265" height="707" frameX="-8" frameY="-8" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rick dance left0001" x="1265" y="720" width="1262" height="707" frameX="-8" frameY="-8" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rick dance left0002" x="0" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rick dance right0000" x="1261" y="1427" width="1269" height="700" frameX="-8" frameY="-8" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rick dance right0001" x="0" y="1427" width="1261" height="707" frameX="-8" frameY="-8" frameWidth="1280" frameHeight="720" />
+<SubTexture name="rick dance right0002" x="1280" y="0" width="1265" height="709" frameX="-8" frameY="-8" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

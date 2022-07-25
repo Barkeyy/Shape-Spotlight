@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tv.png"><SubTexture name="tv talk0000" x="0" y="619" width="527" height="451" frameX="-355" frameY="-164" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tv talk0001" x="0" y="619" width="527" height="451" frameX="-355" frameY="-164" frameWidth="1280" frameHeight="720" />
+
+<SubTexture name="tv talk0002" x="527" y="619" width="565" height="420" frameX="-337" frameY="-196" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tv talk0003" x="527" y="619" width="565" height="420" frameX="-337" frameY="-196" frameWidth="1280" frameHeight="720" />
+
+<SubTexture name="tv talk0004" x="0" y="1070" width="608" height="399" frameX="-317" frameY="-217" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tv talk0005" x="0" y="1070" width="608" height="399" frameX="-317" frameY="-217" frameWidth="1280" frameHeight="720" />
+
+<SubTexture name="tv speaking0000" x="0" y="0" width="484" height="619" frameX="-347" frameY="-101" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tv speaking0001" x="0" y="0" width="484" height="619" frameX="-347" frameY="-101" frameWidth="1280" frameHeight="720" />
+
+<SubTexture name="tv speaking0002" x="484" y="0" width="558" height="595" frameX="-315" frameY="-125" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tv speaking0003" x="484" y="0" width="558" height="595" frameX="-315" frameY="-125" frameWidth="1280" frameHeight="720" />
+
+<SubTexture name="tv speaking0004" x="1042" y="0" width="557" height="559" frameX="-314" frameY="-161" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tv speaking0005" x="1042" y="0" width="557" height="559" frameX="-314" frameY="-161" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

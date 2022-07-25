@@ -1,0 +1,59 @@
+{
+	"storyName": "A very shapular contest",
+	"difficulties": "normal,no mechanic,hell",
+	"hideFreeplay": false,
+	"weekBackground": "rick",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"round",
+			"rick",
+			[
+				255,
+				133,
+				73
+			]
+		],
+		[
+			"squared",
+			"ralph",
+			[
+				75,
+				113,
+				195
+			]
+		],
+		[
+			"triangular",
+			"triangle",
+			[
+				255,
+				173,
+				73
+			]
+		],
+		[
+			"funky beat",
+			"bf",
+			[
+				35,
+				133,
+				153
+			]
+		]
+	],
+	"weekCharacters": [
+		"none",
+		"none",
+		"none"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "weekrick"
+}

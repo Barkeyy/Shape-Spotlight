@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"expression": "announcer",
+			"text": "Let's see what the judges think of your performance, Ralph.",
+			"boxState": "normal",
+			"sound": "annoucer-dialogue",
+			"speed": 0.05,
+			"portrait": "tv"
+		},
+		{
+			"expression": "announcer",
+			"text": "meh...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nonexisty"
+		},
+		{
+			"expression": "talk",
+			"text": "tryhard...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nonexisty"
+		},
+		{
+			"expression": "talk",
+			"text": "5 out of 10",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nonexisty"
+		},
+		{
+			"expression": "shocked",
+			"text": "W-Wh-Wh-whaaaaaaaatttt??????????",
+			"boxState": "angry",
+			"sound": "ralph-dialogue",
+			"speed": 0.11,
+			"portrait": "ralph"
+		},
+		{
+			"expression": "angry",
+			"text": "That's what you get try hard, try harder next time, loser!",
+			"boxState": "angry",
+			"sound": "rick-dialogue",
+			"speed": 0.03,
+			"portrait": "rick"
+		},
+		{
+			"expression": "announcer",
+			"text": "Anyways, enough with your jibber jabber, now it's time for Rex to come sing!",
+			"boxState": "normal",
+			"sound": "annoucer-dialogue",
+			"speed": 0.05,
+			"portrait": "tv"
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah!",
+			"boxState": "angry",
+			"sound": "rix-dialogue",
+			"speed": 0.05,
+			"portrait": "Rex"
+		},
+		{
+			"sound": "rix-dialogue",
+			"speed": 0.05,
+			"portrait": "rex",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'll show you how to groove, kid"
+		},
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"sound": "rix-dialogue",
+			"speed": 0.05,
+			"portrait": "rex",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Shut up, I know you can talk."
+		},
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I mean..."
+		},
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Let's do this!"
+		},
+		{
+			"sound": "rix-dialogue",
+			"speed": 0.05,
+			"portrait": "rex",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah!"
+		}
+	]
+}

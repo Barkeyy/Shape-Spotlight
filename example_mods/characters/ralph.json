@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "ralph left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "ralph down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 12,
+			"name": "ralph up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "ralph right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 12,
+			"name": "ralph idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ralph",
+	"position": [
+		-330,
+		190
+	],
+	"healthicon": "ralph",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		99,
+		53
+	],
+	"camera_position": [
+		250,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

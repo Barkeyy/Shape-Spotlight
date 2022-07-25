@@ -1,0 +1,37 @@
+{
+	"position": [
+		-100,
+		-70
+	],
+	"dialogue_pos": "left",
+	"scale": 1.2,
+	"image": "rex",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "rex talk0000",
+			"loop_name": "rex talk"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "rex angry",
+			"idle_name": "rex angry0000"
+		}
+	]
+}

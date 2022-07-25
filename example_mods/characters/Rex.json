@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "Triangle left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "Triangle down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 12,
+			"name": "Triangle up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "Triangle right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 12,
+			"name": "Triangle idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				3,
+				2,
+				0
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Rex",
+	"position": [
+		-260,
+		70
+	],
+	"healthicon": "Triangle",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		99,
+		53
+	],
+	"camera_position": [
+		-130,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 0.95
+}

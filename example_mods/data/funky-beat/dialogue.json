@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "annoucer-dialogue",
+			"speed": 0.05,
+			"portrait": "tv",
+			"boxState": "normal",
+			"expression": "announcer",
+			"text": "Time for our judges to...."
+		},
+		{
+			"sound": "ralph-dialogue",
+			"speed": 0.05,
+			"portrait": "ralph",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "Yeah, we get it."
+		},
+		{
+			"sound": "annoucer-dialogue",
+			"speed": 0.05,
+			"portrait": "tv",
+			"boxState": "normal",
+			"expression": "announcer",
+			"text": "Before one of our contestants interupted us with their rude behavior I was gonna say that Rex's song was extremely well liked "
+		},
+		{
+			"sound": "annoucer-dialogue",
+			"speed": 0.05,
+			"portrait": "tv",
+			"boxState": "normal",
+			"expression": "announcer",
+			"text": "It got a 9/ out of 10 from our judges, a higher rating than even Rick got!"
+		},
+		{
+			"sound": "rix-dialogue",
+			"speed": 0.01,
+			"portrait": "rex",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Yes!!"
+		},
+		{
+			"sound": "annoucer-dialogue",
+			"speed": 0.05,
+			"portrait": "tv",
+			"boxState": "normal",
+			"expression": "announcer",
+			"text": "Now it's bf's turn to sing and you get to pick the person you'd like to sing with!"
+		},
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "I choose gf!"
+		},
+		{
+			"sound": "gf-dialogue",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wow, bf thanks for picking me!"
+		},
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "Now let's get this funky beat rollin'!"
+		}
+	]
+}

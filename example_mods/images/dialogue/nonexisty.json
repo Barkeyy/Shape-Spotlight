@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-60,
+		-140
+	],
+	"scale": 0.95,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "rick talk",
+			"idle_name": "rick talk0000"
+		},
+		{
+			"loop_name": "rick happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "rick happy0000",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "rick angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "rick angry0000",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "nonexisty"
+}

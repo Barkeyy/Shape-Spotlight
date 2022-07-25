@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "annoucer-dialogue",
+			"speed": 0.05,
+			"portrait": "tv",
+			"boxState": "normal",
+			"expression": "announcer",
+			"text": "Time for our judges to show the results!"
+		},
+		{
+			"sound": "annoucer-dialogue",
+			"speed": 0.05,
+			"portrait": "tv",
+			"boxState": "normal",
+			"expression": "announcer",
+			"text": "They gave it a 10/10 congratulations, bf!"
+		},
+		{
+			"sound": "annoucer-dialogue",
+			"speed": 0.05,
+			"portrait": "tv",
+			"boxState": "normal",
+			"expression": "announcer",
+			"text": "They gave it a 10/10 congratulations, bf!"
+		},
+		{
+		"sound": "bf-dialogue",
+		"speed": 0.05,
+		"portrait": "bf",
+		"boxState": "normal",
+		"expression": "excited",
+		"text": "Yeah!!!!"
+		},
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Now let's go back home and use the money to buy more speakers!!!!"
+		},
+		{
+			"sound": "gf-dialogue",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Seriously? That's what you're gonna do with all that money?"
+		},
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yes!"
+		}
+	]
+}

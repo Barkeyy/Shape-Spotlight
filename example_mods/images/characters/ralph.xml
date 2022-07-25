@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ralph.png"><SubTexture name="ralph idle0000" x="683" y="0" width="676" height="491" frameX="-245" frameY="-139" frameWidth="1280" frameHeight="720" />
+<SubTexture name="ralph idle0001" x="0" y="0" width="683" height="495" frameX="-245" frameY="-135" frameWidth="1280" frameHeight="720" />
+<SubTexture name="ralph idle0002" x="0" y="495" width="709" height="486" frameX="-235" frameY="-146" frameWidth="1280" frameHeight="720" />
+<SubTexture name="ralph idle0003" x="718" y="981" width="754" height="470" frameX="-215" frameY="-162" frameWidth="1280" frameHeight="720" />
+<SubTexture name="ralph idle0004" x="0" y="495" width="709" height="486" frameX="-235" frameY="-146" frameWidth="1280" frameHeight="720" />
+<SubTexture name="ralph left0000" x="1359" y="486" width="593" height="472" frameX="-192" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="ralph left0001" x="1396" y="1459" width="629" height="458" frameX="-178" frameY="-174" frameWidth="1280" frameHeight="720" />
+<SubTexture name="ralph left0002" x="2025" y="906" width="641" height="447" frameX="-177" frameY="-185" frameWidth="1280" frameHeight="720" />
+<SubTexture name="ralph left0003" x="2025" y="458" width="647" height="448" frameX="-175" frameY="-184" frameWidth="1280" frameHeight="720" />
+<SubTexture name="ralph up0000" x="1359" y="0" width="666" height="486" frameX="-132" frameY="-144" frameWidth="1280" frameHeight="720" />
+<SubTexture name="ralph up0001" x="720" y="1459" width="676" height="462" frameX="-128" frameY="-169" frameWidth="1280" frameHeight="720" />
+<SubTexture name="ralph up0002" x="0" y="1459" width="720" height="465" frameX="-106" frameY="-167" frameWidth="1280" frameHeight="720" />
+<SubTexture name="ralph down0000" x="709" y="495" width="561" height="469" frameX="-245" frameY="-171" frameWidth="1280" frameHeight="720" />
+<SubTexture name="ralph down0001" x="2025" y="1353" width="584" height="447" frameX="-233" frameY="-185" frameWidth="1280" frameHeight="720" />
+<SubTexture name="ralph down0002" x="773" y="1924" width="595" height="442" frameX="-228" frameY="-192" frameWidth="1280" frameHeight="720" />
+<SubTexture name="ralph right0000" x="0" y="981" width="718" height="478" frameX="-246" frameY="-153" frameWidth="1280" frameHeight="720" />
+<SubTexture name="ralph right0001" x="2025" y="0" width="747" height="458" frameX="-229" frameY="-174" frameWidth="1280" frameHeight="720" />
+<SubTexture name="ralph right0002" x="0" y="1924" width="773" height="449" frameX="-219" frameY="-183" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

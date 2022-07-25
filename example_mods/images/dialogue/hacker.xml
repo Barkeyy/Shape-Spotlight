@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hacker.png"><SubTexture name="hacker idle0000" x="0" y="0" width="634" height="720" frameX="-268" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="hacker idle0001" x="634" y="0" width="662" height="720" frameX="-261" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="hacker idle0002" x="1296" y="0" width="713" height="720" frameX="-221" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="hacker idle0003" x="0" y="720" width="756" height="720" frameX="-254" frameY="0" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

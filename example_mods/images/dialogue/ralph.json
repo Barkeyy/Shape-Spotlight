@@ -1,0 +1,64 @@
+{
+	"position": [
+		40,
+		-50
+	],
+	"dialogue_pos": "left",
+	"no_antialiasing": false,
+	"scale": 1,
+	"image": "ralph",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "ralph talk0000",
+			"loop_name": "ralph talk"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "cocky",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "ralph cock",
+			"idle_name": "ralph cock0000"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "annoyed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "ralph annoyed",
+			"idle_name": "ralph annoyed0000"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "ralph shocked",
+			"idle_name": "ralph shocked"
+		}
+	]
+}

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rex.png"><SubTexture name="rex talk0000" x="0" y="0" width="409" height="506" frameX="-238" frameY="-58" frameWidth="822" frameHeight="606" />
+<SubTexture name="rex talk0002" x="0" y="0" width="409" height="506" frameX="-238" frameY="-58" frameWidth="822" frameHeight="606" />
+
+<SubTexture name="rex talk0003" x="818" y="0" width="442" height="484" frameX="-224" frameY="-81" frameWidth="822" frameHeight="606" />
+<SubTexture name="rex talk0004" x="818" y="0" width="442" height="484" frameX="-224" frameY="-81" frameWidth="822" frameHeight="606" />
+
+<SubTexture name="rex talk0005" x="0" y="506" width="472" height="482" frameX="-208" frameY="-83" frameWidth="822" frameHeight="606" />
+<SubTexture name="rex talk0006" x="0" y="506" width="472" height="482" frameX="-208" frameY="-83" frameWidth="822" frameHeight="606" />
+
+<SubTexture name="rex angry0000" x="409" y="0" width="409" height="506" frameX="-238" frameY="-58" frameWidth="822" frameHeight="606" />
+<SubTexture name="rex angry0001" x="409" y="0" width="409" height="506" frameX="-238" frameY="-58" frameWidth="822" frameHeight="606" />
+
+<SubTexture name="rex angry0002" x="472" y="506" width="443" height="474" frameX="-221" frameY="-92" frameWidth="822" frameHeight="606" />
+<SubTexture name="rex angry0003" x="472" y="506" width="443" height="474" frameX="-221" frameY="-92" frameWidth="822" frameHeight="606" />
+
+<SubTexture name="rex angry0004" x="1260" y="0" width="500" height="430" frameX="-185" frameY="-136" frameWidth="822" frameHeight="606" />
+
+<SubTexture name="rex angry0005" x="1260" y="0" width="500" height="430" frameX="-185" frameY="-136" frameWidth="822" frameHeight="606" />
+
+</TextureAtlas>

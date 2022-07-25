@@ -1,0 +1,110 @@
+{
+	"dialogue": [
+		{
+			"sound": "annoucer-dialogue",
+			"speed": 0.05,
+			"portrait": "tv",
+			"boxState": "normal",
+			"expression": "announcer",
+			"text": "Now it's time to let the judges score Rick's performance"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nonexisty",
+			"boxState": "normal",
+			"expression": "announcer",
+			"text": "We give a 9/10 to rick, amazing performance, truly inspiring."
+		},
+
+		{
+			"sound": "annoucer-dialogue",
+			"speed": 0.05,
+			"portrait": "tv",
+			"boxState": "normal",
+			"expression": "announcer",
+			"text": "Next up will be...."
+		},
+		{
+			"sound": "annoucer-dialogue",
+			"speed": 0.05,
+			"portrait": "tv",
+			"boxState": "normal",
+			"expression": "announcer",
+			"text": "Ralph!!!"
+		},
+		{
+			"sound": "ralph-dialogue",
+			"speed": 0.05,
+			"portrait": "ralph",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "HELL YEAH!"
+		},
+		{
+			"sound": "ralph-dialogue",
+			"speed": 0.05,
+			"portrait": "ralph",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You ready bf? I won't go easy on you..."
+		},
+		{
+			"sound": "ralph-dialogue",
+			"speed": 0.05,
+			"portrait": "ralph",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "Unlike that orange disgrace"
+		},
+		{
+			"sound": "rick-dialogue",
+			"speed": 0.03,
+			"portrait": "rick",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "HEY!!!!"
+		},
+		{
+			"sound": "ralph-dialogue",
+			"speed": 0.02,
+			"portrait": "ralph",
+			"boxState": "angry",
+			"expression": "annoyed",
+			"text": "ANYWAYS .... "
+		},
+		{
+			"sound": "ralph-dialogue",
+			"speed": 0.05,
+			"portrait": "ralph",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Are you ready or not?"
+		},
+		{
+			"sound": "bf-dialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "YEAH!!!!"
+			
+		},
+		{
+			"sound": "annoucer-dialogue",
+			"speed": 0.05,
+			"portrait": "hacker",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh no, a hacker is hacking our systems, What will we do about this?"
+		},
+		{
+			"sound": "annoucer-dialogue",
+			"speed": 0.05,
+			"portrait": "hacker",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He is creating new notes made to mess up our contestants please ignore them for the moment."
+		}
+	]
+}
